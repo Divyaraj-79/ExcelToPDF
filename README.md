@@ -3,4 +3,4 @@ In an Excel file we have some URLs of Different Websites, When we run this progr
 
 
 *Note: 
-This is works on Windows only, in linux there is some WebDriver Error. If anyone can solve that problem please send me pull request.
+This will works on Windows Machine only, in linux there is some WebDriver Error. If anyone can solve that problem please send me pull request.
